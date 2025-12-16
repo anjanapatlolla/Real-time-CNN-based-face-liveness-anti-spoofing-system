@@ -33,10 +33,10 @@ A Convolutional Neural Network (CNN) based on the EfficientNetB0 architecture is
 ## 📸 Demo Results
 
 ### ✅ Real Face Detection
-![Real Face](demo/IMAGE_NAME.png)
+![Real Face](demo/image_name.png)
 
 ### ❌ Fake Face Detection
-![Fake Face](demo/Real-Time Liveness Detection — Mozilla Firefox 7_23_2025 11_10_42 PM.png)
+![Fake Face](demo/fake.png)
 
 
 ## ▶️ How to Run the Project
