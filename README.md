@@ -30,6 +30,15 @@ A Convolutional Neural Network (CNN) based on the EfficientNetB0 architecture is
 5. Final decision made using hybrid verification
 6. Display result in real time using Streamlit
 
+## 📸 Demo Results
+
+### ✅ Real Face Detection
+![Real Face](demo/IMAGE_NAME.png)
+
+### ❌ Fake Face Detection
+![Fake Face](demo/Real-Time Liveness Detection — Mozilla Firefox 7_23_2025 11_10_42 PM.png)
+
+
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Clone the repository
